@@ -4,7 +4,7 @@ This project demostrates web scraping all the reviews from "trip advisor" and "Y
 
 ---
 
-# Yelp Web Scraping Project
+# Yelp Web & Trip Advisor Scraping Project
 
 ## Overview
 
