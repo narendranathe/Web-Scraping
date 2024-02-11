@@ -60,8 +60,7 @@ The project successfully retrieved and analyzed data for over 1,000 local busine
 
 ## Future Work
 
-Future improvements could include implementing more sophisticated data analysis techniques, expanding the scope of data collection to include user reviews, and automating the process of updating the scraper to adapt to website changes.
+Future work I am performing sentiment analysis on the collected data, I will add the repo link soon, this repo implements more sophisticated data analysis techniques, expanding the scope of data collection to include user reviews, and automating the process of updating the scraper to adapt to website changes.
 
 ---
 
-This README is formatted using Markdown to enhance readability and structure on GitHub repositories. Each section is designed to provide clear and concise information about the project, from its purpose and how it's built to the challenges faced and the outcomes achieved.
